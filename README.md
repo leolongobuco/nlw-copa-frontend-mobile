@@ -34,10 +34,11 @@ A parte mobile é onde estão todas as funcionalidades principais, nela é poss�
 ```bash
 # NÃO é preciso executar a linha de baixo caso ja tenha o Expo (CLI) instalado
 yarn global add install expo-cli
+
 # clonar repositório
 git clone https://github.com/leolongobuco/nlw-copa-frontend-mobile
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto mobile
 cd nlw-copa
 cd frontend-nlw-copa
 cd mobile
